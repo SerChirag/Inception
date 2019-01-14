@@ -42,10 +42,6 @@ Freshly Baked! Version 1.0
 * GaganDeep Tomar (https://github.com/gagandt)
 * Rahul Chaudhary
 
-**License:**
----
-nange hai hum nange
-
 **Acknowledgments:** 
 ---
 Amazon Alexa (alexa.com)
